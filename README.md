@@ -6,12 +6,13 @@ O **Laboratório de Serviços de Linguagem Natural do Microsoft Azure** é um am
 ![conversão_para_Texto.png](Input/conversão_para_Texto.png)
 O serviço funcionou muito bem, convertendo com boa precisão o aúdio, inclusive pontuando o texto.
 
-**Ferramenta de Análise de sentimentos **
+**Ferramenta de Análise de sentimentos**
 
 todos os comentários estão em um contexto de show de rock, com opniões diversas em vários idiomas
  
 **Comentário em turco**
 ![turco.png](Input/turco.png)
+
 
 Foi detectado como avaliação positiva
 
