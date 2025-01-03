@@ -9,17 +9,20 @@ O serviço funcionou muito bem, convertendo com boa precisão o aúdio, inclusiv
 **Ferramenta de Análise de sentimentos **
 
 todos os comentários estão em um contexto de show de rock, com opniões diversas em vários idiomas
-
+ 
 **Comentário em turco**
 ![turco.png](Input/turco.png)
+
 Foi detectado como avaliação positiva
 
 **Comentário em Italiano**
 ![italiano.png](Input/italiano.png)
+
 Foi dectado como avaliação negativa
 
 **Comentário em português**
 ![portugues.png](Input/portugues.png)
+
 Foi detectado como positivo
 
 essa ferramenta de análise de sentimentos é interessante para se ter um parâmetro rápido da satisfação dos clientes, a captura das palavras chave pode auxiliar na melhora do produto ou serviço.
