@@ -11,7 +11,7 @@ O serviço funcionou muito bem, convertendo com boa precisão o aúdio, inclusiv
 todos os comentários estão em um contexto de show de rock, com opniões diversas em vários idiomas
  
 **Comentário em turco**
-![turco.png](Input/turco.png)
+![turco](Input/turco.png)
 
 
 Foi detectado como avaliação positiva
